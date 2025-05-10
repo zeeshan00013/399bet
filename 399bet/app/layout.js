@@ -36,7 +36,7 @@ export const metadata = {
     image: "/path/to/twitter-image.jpg",
   },
   alternates: {
-    canonical: "https://www.399betgame.cc",
+    canonical: "https://399betgame.cc",
   },
 };
 
