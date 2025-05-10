@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://399betgame.cc
+
+# Sitemaps
+Sitemap: https://399betgame.cc/sitemap.xml
