@@ -16,7 +16,7 @@ export default function Navbar() {
           <div className="">
             <button>
               <a
-                href="https://399bet.net/?id=417186409&currency=PKR&type=4"
+                href="https://www.399bet.bet/?id=705322021&currency=PKR&type=4"
                 className="flex items-center justify-center bg-[#ffffff] hover:bg-[#e1e3e2] text-[#067831] text-lg font-semibold px-4 sm:px-10 py-3 rounded-md shadow-md transition mt-5 gap-2 "
               >
                 Register <LogInIcon />

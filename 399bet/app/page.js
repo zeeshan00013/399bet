@@ -32,7 +32,7 @@ export default function Home() {
               and secure gaming experience for all types of users.
             </p>
             <a
-              href="https://399bet.net/?id=417186409&currency=PKR&type=4"
+              href="https://www.399bet.bet/?id=705322021&currency=PKR&type=4"
               className="inline-flex items-center justify-center bg-[#ffffff] hover:bg-[#e1e3e2] text-[#067831] text-lg font-semibold px-8 py-3 rounded-md shadow-md transition mt-5 gap-2 w-full"
             >
               DOWNLOAD <DownloadIcon />
